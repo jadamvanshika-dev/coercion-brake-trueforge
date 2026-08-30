@@ -59,7 +59,7 @@ st.markdown("""
         transition: all 0.3s ease-in-out !important;
     }
     </style>
-""", unsafe_index=True, unsafe_allow_html=True)
+""", unsafe_allow_html=True)
 
 # 3. Sidebar Authentication Panel
 with st.sidebar:
