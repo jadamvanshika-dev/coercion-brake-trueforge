@@ -31,5 +31,5 @@ While generic submissions focus on standard IT logging, **Asset-Hostage Shield**
 * **Workflow Supervision**: Leverages TrueForge execution runtimes to manage terminal variables, preventing unauthorized overrides until validation tokens match.
 
 ## ## Qodo Code Review Evidence
-* **Representative Merged Pull Request**: https://github.com /jadamvanshika-dev/coercion-brake-trueforge/pull/1
+* **Representative Merged Pull Request**: https://github.com/jadamvanshika-dev/coercion-brake-trueforge/pull/1
 * **Qodo Quality Impact**: Used structural verification steps via our pull request pipeline to evaluate schema constraints, optimizing script syntax prior to main deployment.
