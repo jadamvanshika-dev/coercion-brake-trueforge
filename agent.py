@@ -16,7 +16,6 @@ class Agent:
         self.tools = tools
     
     def run(self, prompt):
-        # Humanistic AI parsing simulation log
         return (
             "⚠️ CRITICAL INFRASTRUCTURE BREACH WARNING FLAGGED BY TRUEFORGE HARNESS.\n"
             "Execution metadata traces show weaponized extortion language patterns within query input weights.\n"
